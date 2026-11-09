@@ -34,7 +34,7 @@ Los controles del juego son sencillos:
 ![Gameplay](docs/capturas/gameplay.png)
 
 ### Personajes y escenarios
-![Personajes](docs/capturas/personajes.png)
+![Personajes](docs/capturas/personajes.jpg)
 
 
 ## 🛠️ Desarrollo
